@@ -5,15 +5,6 @@
     <img style="max-width: 100%;" src="bannerss.png" alt="Banner">
 </div>
 
-<style>
-    @media (max-width: 480px) {
-        /* Hide the right column (image) on screens with a max width of 480px (adjust this value as needed) */
-        td:last-child {
-            display: none;
-        }
-    }
-</style>
-
 <table style="width: 100%;">
     <tr>
         <!-- Left Column -->
@@ -37,7 +28,7 @@
 </td>
 <!-- Right Column (Image) -->
         <td style="width: 50%; text-align: right;">
-            <img width="400" src="sstwo.gif" alt="Coding" style="vertical-align: middle;">
+           <img src="sstwo.gif" alt="Coding" style="vertical-align: middle; max-width: 100%;">
         </td>
     </tr>
 </table>
