@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachitha Sankha Weerasingha</h1>
-<h3 align="center">B.Sc. in Engineering Hons.(UG) - Computer Engineering - University of Ruhuna, Sri Lanka 🇱🇰</h3>
+<h3 align="center">B.Sc. in Engineering Hons.(UG) - Computer Engineering - University of Ruhuna, Sri Lanka</h3>
 
 <div style="width: 100%; text-align: center;">
     <img style="max-width: 100%;" src="bannerss.png" alt="Banner">
@@ -36,6 +36,14 @@
         </td>
     </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweerasingha&show_icons=true&locale=en&layout=compact" alt="sweerasingha" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <!-- Left Card (Top Languages) -->
+    <div>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweerasingha&show_icons=true&locale=en&layout=compact" alt="sweerasingha" /></p>
+    </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweerasingha&show_icons=true&locale=en" alt="sweerasingha" /></p>
+    <!-- Right Card (General Stats) -->
+    <div>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweerasingha&show_icons=true&locale=en" alt="sweerasingha" /></p>
+    </div>
+</div>
