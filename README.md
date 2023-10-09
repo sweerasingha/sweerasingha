@@ -11,3 +11,5 @@
 📫 You can reach me via email at sachiprojects@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/sweerasingha.
 
 🚀 "The only way to do great work is to love what you do." - Steve Jobs
+
+Thank you for Visiting!
