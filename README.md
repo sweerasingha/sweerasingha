@@ -5,6 +5,15 @@
     <img style="max-width: 100%;" src="bannerss.png" alt="Banner">
 </div>
 
+<style>
+    @media (max-width: 480px) {
+        /* Hide the right column (image) on screens with a max width of 480px (adjust this value as needed) */
+        td:last-child {
+            display: none;
+        }
+    }
+</style>
+
 <table style="width: 100%;">
     <tr>
         <!-- Left Column -->
