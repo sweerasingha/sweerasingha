@@ -7,7 +7,7 @@
 
 <table style="width: 100%;">
     <tr>
-
+        <!-- Left Column -->
         <td style="width: 50%; vertical-align: middle;">
 
 <div style="flex: 1; align-items: left;">
