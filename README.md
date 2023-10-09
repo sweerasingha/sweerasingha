@@ -38,15 +38,5 @@
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweerasingha&show_icons=true&locale=en&layout=compact" alt="sweerasingha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweerasingha&show_icons=true&locale=en" alt="sweerasingha" /></p>
-<div style="display: flex; justify-content: space-between;">
-    <!-- Left Card (Top Languages) -->
-    <div>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweerasingha&show_icons=true&locale=en&layout=compact" alt="sweerasingha" /></p>
-    </div>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sweerasingha&show_icons=true&locale=en" alt="sweerasingha" /></p>
 
-<!-- Right Card (General Stats) -->
-<div>
-        <p style="text-align: center;">&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweerasingha&show_icons=true&locale=en" alt="sweerasingha" /></p>
-    </div>
-</div>
