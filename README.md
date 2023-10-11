@@ -10,7 +10,7 @@
         <!-- Left Column -->
         <td style="width: 50%; vertical-align: middle;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sweerasingha&label=Profile%20views&color=0e75b6&style=flat" alt="sweerasingha" style="width: 500;" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sweerasingha&label=Profile%20views&color=0e75b6&style=flat" alt="sweerasingha" style="width: 500; height: 50;" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ssweerasingha" target="blank"><img src="https://img.shields.io/twitter/follow/ssweerasingha?logo=twitter&style=for-the-badge" alt="ssweerasingha" /></a> </p>
 
