@@ -39,8 +39,3 @@
 </p>
 
 <img src="sstwo.gif" alt="Coding" style="vertical-align: middle; max-width: 100%;">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweerasingha&show_icons=true&locale=en&layout=compact" alt="sweerasingha" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sweerasingha&show_icons=true&locale=en" alt="asweerasingha" /></p>
-
